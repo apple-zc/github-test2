@@ -1,2 +1,1 @@
-# github-test2
-github-test2
+merged content.
